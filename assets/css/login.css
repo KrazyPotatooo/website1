@@ -1,0 +1,39 @@
+/* assets/css/login.css */
+
+#login {
+    padding: 60px 0;
+  }
+  
+  .php-login-form {
+    background-color: #fff;
+    padding: 30px;
+    border-radius: 8px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  }
+  
+  .php-login-form label {
+    font-weight: 600;
+  }
+  
+  .php-login-form input {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 15px;
+    border: 1px solid #ced4da;
+    border-radius: 4px;
+  }
+  
+  .php-login-form button {
+    padding: 10px 20px;
+    font-size: 16px;
+    border: none;
+    border-radius: 4px;
+    background-color: #007bff;
+    color: #fff;
+    cursor: pointer;
+  }
+  
+  .php-login-form button:hover {
+    background-color: #0056b3;
+  }
+  
